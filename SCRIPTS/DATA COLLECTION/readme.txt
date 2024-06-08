@@ -1,5 +1,3 @@
-Download the DATA_COLLECTION.ZIP from:
-https://drive.google.com/file/d/1wV96BQH6v9JfGwSYVJi4l2OwWV4pkCIy/view?usp=sharing
 
 Pre-requisite:
 * Create a CSV file containing the CVEs (that you want to collect data for) and their NVD disclosure date.
