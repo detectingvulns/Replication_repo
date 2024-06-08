@@ -1,3 +1,8 @@
+Data used for our experiments can be downloaded from:
+https://drive.google.com/file/d/1mJps9btHN-yOyfYcGPq5C-E60Zx1QsmA/view?usp=sharing
+Data collection code is at:
+https://drive.google.com/file/d/1OEGWXwcndmOzauzmdsclxwHffvxQyDQh/view?usp=sharing
+
 
 Pre-requisite:
 * Create a CSV file containing the CVEs (that you want to collect data for) and their NVD disclosure date.
